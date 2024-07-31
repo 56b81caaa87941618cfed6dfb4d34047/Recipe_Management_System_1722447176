@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button with text Free",
+        "message_id": "guest31072024173352",
+        "timestamp": "31072024173353",
+        "component_file_name": "simple_footer_component_1722447177",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",
