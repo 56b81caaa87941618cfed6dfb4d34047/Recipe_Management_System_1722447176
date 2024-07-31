@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Free' button to be positioned within the app interface?\", \"option1\": \"At the top of the main screen\", \"option2\": \"At the bottom of the main screen\"}, {\"question 2\": \"What action should occur when the 'Free' button is pressed?\", \"option1\": \"Open a new page with free recipes\", \"option2\": \"Show a popup with a special offer\"}], \"input_token_count\": 258, \"output_token_count\": 102, \"time_taken\": \"0:00:04.194723\"}",
+        "message_id": "guest31072024173352",
+        "timestamp": "31072024173401",
+        "component_file_name": "simple_footer_component_1722447177",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Working on adding a button with text \"Free\".",
         "message_id": "guest31072024173352",
