@@ -14,8 +14,11 @@ Vue.component("simple_footer_component_1722447177", {
                     </div>
                 </div>
                 <div class="flex">
-                    <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
-                        Unleash your culinary creativity with CookMate. Discover new recipes, plan meals, and elevate your cooking skills with our user-friendly app designed for food enthusiasts.
+                    <div id="footer-text" class="flex-1 flex items-center justify-center space-x-4">
+                        <div class="text-sm text-center text-gray-500 dark:text-gray-400">
+                            Unleash your culinary creativity with CookMate. Discover new recipes, plan meals, and elevate your cooking skills with our user-friendly app designed for food enthusiasts.
+                        </div>
+                        <button class="px-4 py-2 bg-blue-500 text-white rounded-lg shadow-md hover:bg-blue-600 transition duration-300">Free</button>
                     </div>
                 </div>
             </div>
